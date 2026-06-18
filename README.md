@@ -4,9 +4,7 @@ A small C#/.NET project for implementing, testing, and comparing classic sorting
 
 ## Overview
 
-`Sorting Analysis` contains a collection of generic sorting algorithm implementations and supporting infrastructure for running them against generated datasets.
-
-The project is organized around a strategy-based design: each sorting algorithm implements a shared interface and can be registered, tested, and benchmarked in the same way. This makes it easy to compare algorithm behavior across different data distributions such as random, sorted, nearly sorted, and reverse-sorted input.
+This project contains a collection of generic sorting algorithm implementations and supporting infrastructure for running them against generated datasets.
 
 ## Features
 
